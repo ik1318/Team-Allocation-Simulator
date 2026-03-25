@@ -1,6 +1,7 @@
 # Team Allocation Simulator
 
-OVERVIEW
+*Developed as part of a group project for SC1003.*
+
 The Team Allocation Simulator is a data-driven tool designed to automate the complex task of forming student project teams. In large educational settings, manually sorting students to ensure fair and diverse teams is time-consuming and prone to bias. 
 
 THIS PROJECT PERFORMS THE FOLLOWING JOBS:
@@ -37,5 +38,3 @@ TECH STACK
 - Mathematical Logic: Statistics & Math modules (Scoring & Fitness)
 - Visualization: Matplotlib & Seaborn (Performance Graphing)
 - Packaging: Modular directory structure for scalability.
-
-*Developed as part of the SC1003 Module- Mini Project.*
